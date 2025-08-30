@@ -1,0 +1,1 @@
+UTILIZADO PYTHON E A pyautogui.
